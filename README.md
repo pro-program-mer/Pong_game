@@ -1,6 +1,7 @@
 # Pong_game
-This is a game which i have made in the python language using the turtle module.
-This was the first game which i have made without watching any tutorial video or help completely by my own.
+This is a game which I have made in the python language using the turtle and winsound module.
+This was the first game which I have made without watching any tutorial video and with little help.
 
 In this I have also used the windows sounds feature to make this game more effective.
 
+The main feature is that it is a two player game.
